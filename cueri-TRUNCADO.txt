@@ -1,0 +1,93 @@
+1 measur dielectr constant liquid use microwav techniqu
+2 mathemat analysi design detail waveguid fed microwav radiat
+3 use digit comput design band pass filter given phase attenu characterist
+4 system data code inform transfer
+5 use program engin test comput
+6 number represent binari machin
+7 secondari emiss electron posit ion bombard cathod
+8 measur plasma temperatur arc discharg use shock wave techniqu
+9 characterist singl electrod discharg rare gase low pressur
+10 method calcul instantan power dissip reactiv circuit
+11 effect oxid circuit breaker contact
+12 temperatur independ method tune highli stabl high frequenc oscil
+13 mathemat express graph design transistoris tune pass band amplifi
+14 synthesi filter high attenu characterist use block diagram approach
+15 voltag current relationship network nonlinear element connect parallel
+16 method approxim frequenc phase relationship resist induct resist capacit circuit
+17 observ rapid fluctuat earth magnet field relat propag hydromagnet wave exospher
+18 diurnal variat fluctuat earth magnet field
+19 spheric harmon analysi earth magnet field
+20 deriv compon electr conduct upper atmospher
+21 effect solar flare absorpt cosmic radio nois ionospher
+22 determin current system upper atmospher magnet storm
+23 observ sun eclips give distribut sourc disc microwav rang
+24 observ sun use radio interferomet
+25 equat govern propag electromagnet hydromagnet wave solar corona
+26 estim densiti ioniz temperatur solar corona
+27 pleas send abstract sourc spectra lightn discharg
+28 effect small distort surfac caviti reson
+29 determin orbit individu meteor radio method
+30 determin ion mass ionospher studi back scatter radio wave
+31 theoret studi sourc high frequenc radio wave emit planet jupit
+32 simultan observ whistler lightn discharg
+33 variat height reflect low low frequenc radio wave period ground sunris
+34 use ionospher cross modul determin ionospher electron densiti collis frequenc
+35 measur ionospher drift near equat
+36 use analogu comput upper atmospher theori
+37 use lunar radio reflect investig natur moon surfac
+38 refer comparison ground level high altitud balloon cosmic ray result
+39 refer model experi aurora
+40 refer integr spectrum primari cosmic ray
+41 ferromagnet techniqu comput store
+42 solut differenti equat comput
+43 effici digit comput versu analogu comput solut boundari valu problem
+44 method error check digit comput
+45 method produc minim net given logic function canon form
+46 arithmet unit requir digit comput includ shift regist serial parallel adder
+47 inform design low drift transistor amplifi
+48 inform high current transistor switch
+49 inform design time divis multiplex circuit
+50 detail avail low voltag capacitor
+51 design direct coupl flip flop function maximum variat valu circuit compon
+52 pleas suppli inform perform typic magnet film memori system circuit diagram
+53 would like detail work done extend frequenc rang magnet amplifi
+54 would like inform rang static relay suitabl use high switch rate
+55 interest circuitri capabl gener extrem narrow puls
+56 pleas suppli inform theori use parametr amplifi
+57 synthesi network given sampl data transfer function
+58 theori stabil relat control system relay element
+59 use digit comput obtain power spectral analysi numer data
+60 print circuit design random puls gener low frequenc
+61 refer electr field theori aurora
+62 fast transistor counter
+63 low pass lattic filter
+64 similar diffract theori electromagnet wave electron stream
+65 use complex variabl theori commun network
+66 behaviour beam charg particl presenc plane conductor
+67 predict path electron move vari magnet field
+68 activ constant voltag transform signal distribut
+69 activ audio frequenc filter variabl cut slope
+70 variabl ultra high frequenc attenu
+71 faulti oper feedback time base
+72 variabl capacit amplifi
+73 transistor sweep gener
+74 advantag parametr amplifi
+75 optimis linear network
+76 transistor phase split circuit
+77 pleas suppli inform pertin use surfac pretreat prevent secondari emiss effect valv
+78 wish data design mechan band pass filter good pass characterist
+79 mechan wherebi transmiss high frequenc affect weather time day
+80 could pleas give articl possibl get rectif use metal devic
+81 wish calcul induct loss coil made use print circuit miniatur idea suitabl articl pleas
+82 analysi nonlinear system use phase plane techniqu
+83 miniatur low nois high gain high imped amplifi
+84 control characterist sampl servo system
+85 power spectral densiti distribut obtain use analogu techniqu
+86 high stabil high input imped transistoris analogu amplifi
+87 electron specif heat superconductor show discontinu superconduct critic temperatur
+88 abstract field distribut surround charg thin circular disc rest infinit dielectr slab
+89 tunnel diod construct electr characterist explain
+90 electron densiti state surfac semiconductor compar depth
+91 resist metal thin film relat surfac rough
+92 phenomenon radiat caus charg particl move vari electr magnet field
+93 high frequenc oscil use transistor theoret treatment practic circuit detail
